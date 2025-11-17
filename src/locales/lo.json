@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "ໜ້າຫຼັກ",
+    "websiteService": "ບໍລິການເວັບໄຊທ໌",
+    "settings": "ການຕັ້ງຄ່າ"
+  },
+  "language": {
+    "title": "ພາສາ",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "lo": "ລາວ"
+  },
+  "home": {
+    "title": "ປະຕູ FOXAI",
+    "subtitle": "ເຂົ້າເຖິງທຸກແອັບພລິເຄຊັນຂອງທ່ານ"
+  },
+  "websiteService": {
+    "title": "ບໍລິການເວັບໄຊທ໌",
+    "subtitle": "ສຳຫຼວດວິທີແກ້ໄຂເວັບຂອງພວກເຮົາ",
+    "visitWebsite": "ເຂົ້າເບິ່ງເວັບໄຊທ໌"
+  }
+}

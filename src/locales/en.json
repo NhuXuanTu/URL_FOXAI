@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "websiteService": "Website service",
+    "settings": "Settings"
+  },
+  "language": {
+    "title": "LANGUAGE",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "lo": "ລາວ"
+  },
+  "home": {
+    "title": "FOXAI Portal",
+    "subtitle": "Access all your applications"
+  },
+  "websiteService": {
+    "title": "Website Services",
+    "subtitle": "Explore our web solutions",
+    "visitWebsite": "Visit Website"
+  }
+}

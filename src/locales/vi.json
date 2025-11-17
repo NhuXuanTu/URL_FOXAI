@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "websiteService": "Dịch vụ Website",
+    "settings": "Cài đặt"
+  },
+  "language": {
+    "title": "NGÔN NGỮ",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "lo": "ລາວ"
+  },
+  "home": {
+    "title": "Cổng FOXAI",
+    "subtitle": "Truy cập tất cả ứng dụng của bạn"
+  },
+  "websiteService": {
+    "title": "Dịch vụ Website",
+    "subtitle": "Khám phá các giải pháp web của chúng tôi",
+    "visitWebsite": "Truy cập Website"
+  }
+}
